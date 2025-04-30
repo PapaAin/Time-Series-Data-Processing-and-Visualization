@@ -1,5 +1,6 @@
 # Time-Series-Data-Processing-and-Visualization
 
+## Description
 This project focuses on reading, cleaning, and transforming a dataset that contains time-based records, converting the date column into a DatetimeIndex for efficient analysis. 
 The processed data will be filtered, aggregated, and visualized to reveal meaningful trends over a specific time period.
 
